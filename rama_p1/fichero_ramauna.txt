@@ -1,0 +1,12 @@
+<head>
+<body>
+
+<h1>Bienvenido a la web</h1>
+
+<h2>Esta es la página1 donde podemos seguir el curso</h2>
+
+
+</body>
+
+
+</head>
